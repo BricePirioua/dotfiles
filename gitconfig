@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = brice.pirioua@gmail.com
+	name = Brice Pirioua
