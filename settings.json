@@ -75,5 +75,21 @@
     "workbench.settings.editor": "json",
     "workbench.settings.openDefaultSettings": true,
     "workbench.settings.useSplitJSON": true,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "window.zoomLevel": -1,
+    "workbench.editor.untitled.hint": "hidden",
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+      "*": true,
+      "plaintext": false,
+      "markdown": false,
+      "scminput": false,
+      "yaml": false,
+      "erb": true,
+      "javascript": false,
+      "scss": false,
+      "css": true
+    },
+    "liveServer.settings.donotVerifyTags": true
 }
